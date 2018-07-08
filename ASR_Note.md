@@ -51,5 +51,8 @@ Sphinx是由美国卡内基梅隆大学开发的**大词汇量、非特定人、
 - 语言模型训练
 - 解码器
 
+## Julius
+[Julius语音识别使用](https://blog.csdn.net/qq_35029531/article/details/79781932)
+
 ## 开源语音识别软件对比
 [横评：五款免费开源的语音识别工具 | 雷锋网](https://www.leiphone.com/news/201703/RccQRMCqbgxnFFS3.html)
