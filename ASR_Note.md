@@ -42,6 +42,9 @@
 语音听写接口文档：[语音听写 · 科大讯飞REST_API开发指南](https://doc.xfyun.cn/rest_api/%E8%AF%AD%E9%9F%B3%E5%90%AC%E5%86%99.html)
 ## CMU-Sphinx
 [语音识别的基础知识与CMUsphinx介绍 - sunfoot - 博客园](https://www.cnblogs.com/qiuhong/articles/3661546.html)
+
+[CMUSphinx 构建语言模型](https://blog.csdn.net/x_r_su/article/details/53032589)
+
 Sphinx是由美国卡内基梅隆大学开发的**大词汇量、非特定人、连续英语语音识别**系统。一个连续语音识别系统大致可分为四个部分：
 - 特征提取
 - 声学模型训练
