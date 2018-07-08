@@ -1,5 +1,7 @@
 # NLP及机器学习
+
 ## 自然语言处理及对话系统
+
 [最新人机对话系统简略综述](https://mp.weixin.qq.com/s/fRw4DBX_Gl5CD0kvuiS5ag?scene=25#wechat_redirect)
 
 [教程一篇最简单的NLP入门：在Python上构建Word2Vec词嵌入模型（Tensorflow篇）](https://mp.weixin.qq.com/s/lpoQhQ09stDaOXNYexTyiA)
@@ -22,6 +24,10 @@
 ## NLP Tutorial
 
 [不是你无法入门自然语言处理（NLP），而是你没找到正确的打开方式 | 雷锋网](https://www.leiphone.com/news/201705/vyn9xgep9uQLIf6d.html)
+
+## Deep learning in NLP
+
+[Deep Learning in NLP （一）词向量和语言模型](http://licstar.net/archives/328)
 
 ### 快速上手
 
