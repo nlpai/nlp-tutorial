@@ -70,6 +70,17 @@
 - WebAPI支持多路并发
 - 支持个性化听写，可以上传热词
 
+基于讯飞云平台提供的接口，下面是WebAPI的Python实例（已验证），标红部分为应用的相应标红部分的值，如下图：
+![Python WebAPI](https://i.imgur.com/aXGuGvq.png)
+![讯飞云平台应用](https://i.imgur.com/RYiGut6.png)
+
+返回结果为JSON，字段定义如下：
+参数	类型	说明
+code	string	结果码(具体见错误码)
+data	string	语音识别后文本结果
+desc	string	描述
+sid	string	会话ID
+
 ## CMU-Sphinx
 [语音识别的基础知识与CMUsphinx介绍 - sunfoot - 博客园](https://www.cnblogs.com/qiuhong/articles/3661546.html)
 
@@ -80,6 +91,9 @@ Sphinx是由美国卡内基梅隆大学开发的**大词汇量、非特定人、
 - 声学模型训练
 - 语言模型训练
 - 解码器
+
+
+![](https://i.imgur.com/SdV2CdY.png)
 
 ## Julius
 [Julius语音识别使用](https://blog.csdn.net/qq_35029531/article/details/79781932)
